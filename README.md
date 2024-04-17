@@ -1,0 +1,2 @@
+# testApiBloomAlert
+test for BloomAlert
